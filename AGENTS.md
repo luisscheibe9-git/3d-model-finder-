@@ -19,7 +19,7 @@ After STOP 1, help the student propose and approve the six TARGET lines and one 
 
 ## My standing rule
 
-[One observable, student-approved rule that protects this project's purpose or experience.]
+Every result must visibly name its source and file type, and the site must never guess CAD-application compatibility that the original source does not state.
 
 ## Workflow
 
